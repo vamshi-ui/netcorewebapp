@@ -1,0 +1,53 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider and VSCode IDE files
+.idea/
+.vscode/
+*.code-workspace
+
+
+## DotNet environment and cache
+*.dbmdl
+*.pdb
+*.cache
+*.log
+
+## Package directories
+node_modules/
+packages/
+wwwroot/lib/
+
+## Publish output
+publish/
+*.Publish.xml
+
+## Logs
+*.log
+Logs/
+
+## Dependency cache
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+## EF Migrations snapshots (optional)
+**/Migrations/*Snapshot.cs
+
+## OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Others
+*.ncrunch*
+_ReSharper*/
+*.vs/
